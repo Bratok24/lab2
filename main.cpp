@@ -22,7 +22,7 @@ BigInt fibonacci(int n) {
 int main() {
     int input_1, input_2;
 
-    // 1. Факториал [cite: 5]
+    // 1. Факториал 
     std::cout << "1. Enter input_1 (>100): ";
     std::cin >> input_1;
     factorial(input_1).print();
